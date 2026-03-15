@@ -47,7 +47,7 @@ If you decide to use/fork Hercules, please do **star it** to show support. It he
 <br>
 <br>
 
-Contact either `mruptimee.` on Discord for queries, or join the [Discord](https://zeusssz.github.io/hercules-discord/), to use the **Herucles Bot**.
+Contact either `mruptimee.` on Discord for queries, or join the [Discord](https://discord.gg/fgjBAvJu72).
 <br>
 
 >[!CAUTION]
