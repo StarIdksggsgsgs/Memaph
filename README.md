@@ -175,13 +175,13 @@ If you specify the overwrite option with the `--overwrite` flag, it will write o
 You may also specify a preset using `--min`, `--mid`, or `--max`.
 eg.
 ```sh
-lua hercules.lua my_script.lua --max
+lua Mem.lua my_script.lua --max
 ```
 
 You may also choose modules through the command line by using the flags, such as `--compressor`/`-c`.
 eg.
 ```sh
-lua hercules.lua my_script.lua -c --antitamper
+lua Mem.lua my_script.lua -c --antitamper
 ```
 
 <h6>above enables compressor and antitamper</h6>
