@@ -94,13 +94,14 @@ Memaph is very much still in development and may not be the best yet, but we are
 1. Clone this repository (alternatively, install the ZIP file):
     ```bash
     git clone https://github.com/StarIdksggsgsgs/Memaph.git
-    cd Memaph/src
+    mkdir -p ~/bin && printf '#!/usr/bin/env bash\npreset="$1"\ninput="$2"\noutput="$3"\n[ -z "$output" ] && output="${input%.lua}_obf.lua"\nlua Memaph/src/Mem.lua "$input" --$preset -at -o "$output"\n' > ~/bin/mem && chmod +x ~/bin/mem && (grep -qxF "export PATH=\"$HOME/bin:\$PATH\"" ~/.bashrc || echo "export PATH=\"$HOME/bin:\$PATH\"" >> ~/.bashrc) && source ~/.bashrc
     ```
 
 2. Run the obfuscator:
     ```bash
-    lua Mem.lua path/to/your/script.lua
+    mem mid input.lua my_output.lua
     ```
+    specify a preset using `min`, `mid`, or `max`.
 >[!NOTE]
 >Ensure you are in the working directory of `hercules.lua`, i.e., `src` by default.
 
