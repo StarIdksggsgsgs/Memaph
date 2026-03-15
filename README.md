@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Banner Image" />
+  <img src="" alt="" />
 </p>
 <pre align="center">
  /$$      /$$                                             /$$      
