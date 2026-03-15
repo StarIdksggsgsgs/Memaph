@@ -193,6 +193,3 @@ You can modify or add new modules to the `modules/` directory to create addition
 >[!IMPORTANT]
 >When adding more modules to the `modules/` directory, ensure you maintain proper order in the pipeline file, to prevent any issues relating to the sanity of the code, and remember to add your module to the `pipeline.lua` file.
 <br>If you wish for it to be configurable, add it to the `config.lua` file, along with the necessary logic.
-
----
-![image](https://github.com/user-attachments/assets/83c72548-5a4b-4326-b40e-6380f16f5a97)
