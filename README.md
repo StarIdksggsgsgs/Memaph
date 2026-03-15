@@ -40,14 +40,14 @@
 </p>
 
 ---
-**Hercules** is a powerful Lua obfuscator designed to make your Lua code _nearly_ impossible to reverse-engineer. With multiple layers of advanced obfuscation techniques, Hercules ensures your scripts are secure from prying eyes.
+**Memaph** is a powerful Lua obfuscator designed to make your Lua code _nearly_ impossible to reverse-engineer. With multiple layers of advanced obfuscation techniques, Hercules ensures your scripts are secure from prying eyes.
 <br>
 <br>
 If you decide to use/fork Hercules, please do **star it** to show support. It helps out a ton!
 <br>
 <br>
 
-Contact either `zeusssz_` on Discord for queries, or join the [Discord](https://zeusssz.github.io/hercules-discord/), to use the **Herucles Bot**.
+Contact either `mruptimee.` on Discord for queries, or join the [Discord](https://zeusssz.github.io/hercules-discord/), to use the **Herucles Bot**.
 <br>
 
 You may also use the [Website](https://hercules-obfuscator.xyz/) to obfuscate your code
@@ -56,7 +56,7 @@ You may also use the [Website](https://hercules-obfuscator.xyz/) to obfuscate yo
 Obfuscation is not a foolproof method for protecting your code! Always consider additional security measures depending on your use case.
 
 >[!NOTE]
-Hercules is very much still in development and may not be the best yet, but we are committed to making it one of the best. Hercules is currently on version: `1.6.2`
+Memaph is very much still in development and may not be the best yet, but we are committed to making it one of the best. Memaph is currently on version: `1.6.2`
 ---
 
 ## Features
