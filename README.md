@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ff2ed207-c95e-45c3-831f-04a32675dbb5?size=32" alt="Banner Image" />
+  <img src="" alt="Banner Image" />
 </p>
 <pre align="center">
  /$$      /$$                                             /$$      
