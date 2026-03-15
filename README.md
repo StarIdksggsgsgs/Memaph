@@ -93,8 +93,8 @@ Memaph is very much still in development and may not be the best yet, but we are
 
 1. Clone this repository (alternatively, install the ZIP file):
     ```bash
-    git clone https://github.com/zeusssz/hercules-obfuscator.git
-    cd hercules-obfuscator/src
+    git clone https://github.com/StarIdksggsgsgs/Memaph.git
+    cd Memaph/src
     ```
 
 2. Run the obfuscator:
